@@ -1,0 +1,30 @@
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\svist\OneDrive\Рабочий стол\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\svist\OneDrive\Рабочий стол\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\svist\OneDrive\Рабочий стол\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Form1.resx
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\rodion\Desktop\C# studiu\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Form1.resx
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\rodion\Desktop\Studiu 1  C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
